@@ -1,10 +1,5 @@
 欢迎使用autoCode
 ===================
-> **更新列表:**
-
-> - 2015-5-15,新建了一个QQ群:328180219欢迎加群探讨
-> - 升级为依赖[durcframework-core](https://git.oschina.net/durcframework/durcframework-core)框架
-> - 解决SQLSERVER数据库的schema问题.
 
 项目介绍
 -------------------
@@ -13,6 +8,7 @@
 > - autoCode是一个代码生成工具。基于velocity模板引擎，采用SpringMVC + mybatis + jquery easyUI + mysql
 
 > **其特点主要有**
+> - 依赖[durcframework-core](https://git.oschina.net/durcframework/durcframework-core)框架
 
 > - 用户登陆 - 每个用户有他自己独立的数据库连接配置和模板配置；
 > - 数据源配置 - 可以配置多个数据源,多种数据库类型(目前支持Mysql,MSServer数据库,可以扩展)；
@@ -29,4 +25,4 @@
 
 登录用户名密码均为admin
 端口默认用了8088,如需修改,前往pom.xml,找到maven-jetty-plugin插件的port参数.
-** java compiler level 1.7 only
+java compiler level 1.7 only
