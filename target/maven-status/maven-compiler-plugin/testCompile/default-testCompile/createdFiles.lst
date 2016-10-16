@@ -1,0 +1,6 @@
+org\durcframework\autocode\database\SqlHelperTest.class
+org\durcframework\autocode\velocity\VelocityTest.class
+org\durcframework\autocode\config\DataSourceConfigServiceTest.class
+org\durcframework\autocode\database\MybatisTest.class
+org\durcframework\autocode\TestBase.class
+org\durcframework\autocode\generator\FileContextGeneratorTest.class
